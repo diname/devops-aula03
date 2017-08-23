@@ -2,6 +2,6 @@
 
 
 * Mercurial
-* GitHub
+* GitLab
 * Subversion
 * CVS
