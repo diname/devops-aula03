@@ -2,6 +2,6 @@
 
 
 * Mercurial
-* Git
+* Git 
 * Subversion
 * CVS
